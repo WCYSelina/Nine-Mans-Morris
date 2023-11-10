@@ -9,9 +9,9 @@ Disclaimer: Please note that this project is a collaborative effort conducted by
 
 ## Usage
 
-Setup: download ```project.jar``` in the directory
-Open up your terminal
-Run ```java -jar <project_location>```
+- Setup: download ```project.jar``` in the directory
+- Open up your terminal
+- Run ```java -jar <project_location>```
 
 ## Code Structure
 <img width="361" alt="image" src="https://github.com/WCYSelina/Nine-Mans-Morris/assets/95896839/001eecf4-19ab-4d16-9fe7-a82c3c984676">
