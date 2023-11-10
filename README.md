@@ -7,6 +7,12 @@ Disclaimer: Please note that this project is a collaborative effort conducted by
 
 - The objective of this project is to create a fully-functional, terminal-based version of the classic board game Nine Men's Morris. Our goal is to replicate the traditional gameplay experience within a command-line interface, allowing for intuitive user interactions and strategic play without the need for a graphical user interface. This project aims to provide an accessible, text-based game that challenges players to think critically and plan ahead, while also offering a nostalgic return to the simplicity of classic games.
 
+## Usage
+
+Setup: download ```project.jar``` in the directory
+Open up your terminal
+Run ```java -jar <project_location>```
+
 ## Code Structure
 <img width="361" alt="image" src="https://github.com/WCYSelina/Nine-Mans-Morris/assets/95896839/001eecf4-19ab-4d16-9fe7-a82c3c984676">
 
