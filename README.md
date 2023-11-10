@@ -34,6 +34,7 @@ This separation of concerns ensures that our application is modular, making it e
 The above image is the menu of the program where 2 player can play together or a single player can play with an AI
 
 **Play**
+
 ![CL_Monday6pm_Team7_DemoVideo](https://github.com/WCYSelina/Nine-Mans-Morris/assets/95896839/32fd2bc6-fcfc-436b-afa2-99bffbc0c33f)
 
 
