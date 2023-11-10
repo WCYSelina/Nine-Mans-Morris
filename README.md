@@ -26,6 +26,16 @@ As depicted in the project structure image above, our codebase is organized foll
 
 This separation of concerns ensures that our application is modular, making it easier to maintain and extend in the future. Each component can be developed and modified independently, reducing the complexity of the codebase and improving the scalability of our application.
 
+## GamePlay
+
+**Menu**
+![image](https://github.com/WCYSelina/Nine-Mans-Morris/assets/95896839/fb96fada-f256-4958-aaea-c41bdce28287)
+
+The above image is the menu of the program where 2 player can play together or a single player can play with an AI
+
+**Play**
+![CL_Monday6pm_Team7_DemoVideo](https://github.com/WCYSelina/Nine-Mans-Morris/assets/95896839/32fd2bc6-fcfc-436b-afa2-99bffbc0c33f)
+
 
 
 
