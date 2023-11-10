@@ -7,6 +7,20 @@ Disclaimer: Please note that this project is a collaborative effort conducted by
 
 - The objective of this project is to create a fully-functional, terminal-based version of the classic board game Nine Men's Morris. Our goal is to replicate the traditional gameplay experience within a command-line interface, allowing for intuitive user interactions and strategic play without the need for a graphical user interface. This project aims to provide an accessible, text-based game that challenges players to think critically and plan ahead, while also offering a nostalgic return to the simplicity of classic games.
 
+## Code Structure
+<img width="361" alt="image" src="https://github.com/WCYSelina/Nine-Mans-Morris/assets/95896839/001eecf4-19ab-4d16-9fe7-a82c3c984676">
+
+As depicted in the project structure image above, our codebase is organized following the Model-View-Controller (MVC) architectural pattern. This design principle separates concerns as follows:
+
+- **Model**: Contains the core functionality and data structures of our Nine Men's Morris game, including classes like `Board`, `Mill`, `Player`, and `Token`.
+
+- **View**: Handles all the user interface components, which in our terminal-based application includes classes such as `BoardView`, `GameView`, `MenuView`, and `ErrorView`.
+
+- **Controller**: Manages the communication between the Model and View, and includes classes such as `Game`, `MenuController`, and `BoardController`.
+
+This separation of concerns ensures that our application is modular, making it easier to maintain and extend in the future. Each component can be developed and modified independently, reducing the complexity of the codebase and improving the scalability of our application.
+
+
 
 
 
